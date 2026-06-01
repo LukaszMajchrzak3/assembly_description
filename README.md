@@ -1,0 +1,1 @@
+You can copy it by using simply "git clone https://github.com/LukaszMajchrzak3/assembly_description.git". To run this repository, it is necessary to have Ignition Gazebo installed. Then, after buiding and sourcing it, you can run it by using command "ros2 launch assembly_description spawn_robot.launch.py".
