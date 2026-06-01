@@ -1,0 +1,214 @@
+[0.008s] Invoking command in '/home/lucasm/assembly_description/build/assembly_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/lucasm/assembly_description/build/assembly_description -- -j12 -l12
+[0.034s] Invoked command in '/home/lucasm/assembly_description/build/assembly_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/lucasm/assembly_description/build/assembly_description -- -j12 -l12
+[0.055s] Invoking command in '/home/lucasm/assembly_description/build/assembly_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/lucasm/assembly_description/build/assembly_description
+[0.060s] -- Install configuration: ""
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/launch
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/launch/gazebo.launch
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/launch/display.launch
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/launch/controller.launch
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/launch/spawn_robot.launch.py
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/launch/urdf.rviz
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/launch/controller.yaml
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Packages (1).stl
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/530480650 (1)_1.stl
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (27) (1).stl
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (17) (1).stl
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (40) (1).stl
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (35).stl
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/530480650_1.stl
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/43045-0600_6.stl
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Komponent245 (1).stl
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/43045-0600 (1)_6.stl
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (10).stl
+[0.060s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/AKC-80-NR - NEW AK80 COVER MD80_2.0 v6_1.stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (5).stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (24) (1).stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/AKC-80-NR - NEW AK80 COVER MD80_2.0 v6.stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/base_link.stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Komponent389_1.stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/43045-0600.stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (25) (1).stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/530480850 (1)_2.stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/43045-0600 (1)_2.stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Komponent390_1.stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (24).stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Packages (1)_2.stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (48) (1).stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/43045-0600_2.stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Part378.stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (23) (1).stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (47) (1).stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (9).stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/43045-0600 (1)_5.stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (43) (1).stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (23).stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (42) (1).stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Packages_3.stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (39) (1).stl
+[0.061s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/MD80_HW_2.1_simplified v1.stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/43045-0600 (1).stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/MD80_HW_2.1_simplified v1_1.stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/43045-0600_4.stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Board_3.stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (38).stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (27).stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Packages.stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (13) (1).stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (50) (1).stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (26) (1).stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (47).stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (14) (1).stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/MD80_HW_2.1_simplified v7_1.stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/K.02 AK80-9-V2.1 v1_3.stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (19).stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/K.02 AK80-9-V2.1 v1_1.stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Board.stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (34).stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (48).stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (16).stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (18).stl
+[0.062s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/DIN 912 - M4 v2.stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (11).stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/530480850_2.stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/530480850_1.stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/MD80_HW_2.1_simplified v7_2.stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (25).stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Blacha góra v3.stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (19) (1).stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (30) (1).stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (45).stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Packages (1)_1.stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/530480850_3.stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (28) (1).stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/43045-0600 (1)_1.stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/530480650 (1).stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/AKC-80-NR - NEW AK80 COVER MD80_2.0 v6_3.stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (10) (1).stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (32).stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Felga FDM v28.stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (49).stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/43045-0600_1.stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (4).stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (20) (1).stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/530480850 (1)_3.stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (13).stl
+[0.063s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/MD80_HW_2.1_simplified v7.stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (41).stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (35) (1).stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (20).stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (17).stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Komponent618 (1).stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (8).stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/K.02 AK80-9-V2.1 v1.stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (41) (1).stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (49) (1).stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (33).stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (36) (1).stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (21).stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (12) (1).stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (6).stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Board_1.stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (5) (1).stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/530480650 (1)_2.stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/530480850 (1)_1.stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (22).stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Opona v18.stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Part376.stl
+[0.064s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (38) (1).stl
+[0.065s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/MD80_HW_2.1_simplified v1_3.stl
+[0.065s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Board (1).stl
+[0.065s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Part380.stl
+[0.065s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/530480850 (1).stl
+[0.065s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (42).stl
+[0.065s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Board (1)_2.stl
+[0.065s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/AKC-80-NR - NEW AK80 COVER MD80_2.0 v6_2.stl
+[0.065s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (46).stl
+[0.065s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (37) (1).stl
+[0.065s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (33) (1).stl
+[0.065s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (7) (1).stl
+[0.065s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Packages (1)_3.stl
+[0.065s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Komponent319 (1).stl
+[0.065s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/530480650 (1)_3.stl
+[0.065s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (36).stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Part342.stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/530480650_2.stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (44).stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (39).stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (4) (1).stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (34) (1).stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (31) (1).stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (15) (1).stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (15).stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Komponent319.stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (28).stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (6) (1).stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Komponent387_1.stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Board (1)_1.stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Docisk opony v5.stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (22) (1).stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/43045-0600 (1)_3.stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (45) (1).stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Komponent388_1.stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Komponent245.stl
+[0.066s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/530480850.stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/MD80_HW_2.1_simplified v7_3.stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (29).stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Packages_2.stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Komponent618.stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (7).stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (29) (1).stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Board_2.stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (44) (1).stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (9) (1).stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (37).stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/MD80_HW_2.1_simplified v1_2.stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Board (1)_3.stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (26).stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/530480650_3.stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (11) (1).stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/43045-0600_3.stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (16) (1).stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Packages_1.stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/43045-0600 (1)_7.stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (50).stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (40).stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/43045-0600_5.stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (30).stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (31).stl
+[0.067s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/43045-0600 (1)_4.stl
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (32) (1).stl
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (3).stl
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (12).stl
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (43).stl
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Komponent1_1.stl
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (14).stl
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (46) (1).stl
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (21) (1).stl
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (18) (1).stl
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/43045-0600_7.stl
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/Uproszczony prymityw (8) (1).stl
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/K.02 AK80-9-V2.1 v1_2.stl
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/meshes/530480650.stl
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/urdf
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/urdf/Assembly.xacro
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/urdf/Assembly.trans
+[0.068s] -- Installing: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/urdf/robot.urdf
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/urdf/Assembly.gazebo
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/urdf/materials.xacro
+[0.068s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/ament_index/resource_index/package_run_dependencies/assembly_description
+[0.069s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/ament_index/resource_index/parent_prefix_path/assembly_description
+[0.069s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/environment/ament_prefix_path.sh
+[0.069s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/environment/ament_prefix_path.dsv
+[0.069s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/environment/path.sh
+[0.069s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/environment/path.dsv
+[0.069s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/local_setup.bash
+[0.069s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/local_setup.sh
+[0.069s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/local_setup.zsh
+[0.069s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/local_setup.dsv
+[0.069s] -- Installing: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/package.dsv
+[0.069s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/ament_index/resource_index/packages/assembly_description
+[0.069s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/cmake/assembly_descriptionConfig.cmake
+[0.069s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/cmake/assembly_descriptionConfig-version.cmake
+[0.069s] -- Up-to-date: /home/lucasm/assembly_description/install/assembly_description/share/assembly_description/package.xml
+[0.069s] Invoked command in '/home/lucasm/assembly_description/build/assembly_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/lucasm/assembly_description/build/assembly_description

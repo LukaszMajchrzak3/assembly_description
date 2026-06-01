@@ -1,0 +1,23 @@
+Assembly_controller:
+  # Publish all joint states -----------------------------------
+  joint_state_controller:
+    type: joint_state_controller/JointStateController
+    publish_rate: 50
+
+  # Position Controllers --------------------------------------
+  Obrót 1_position_controller:
+    type: effort_controllers/JointPositionController
+    joint: Obrót 1
+    pid: {p: 100.0, i: 0.01, d: 10.0}
+  Obrót 2_position_controller:
+    type: effort_controllers/JointPositionController
+    joint: Obrót 2
+    pid: {p: 100.0, i: 0.01, d: 10.0}
+  Obrót 3_position_controller:
+    type: effort_controllers/JointPositionController
+    joint: Obrót 3
+    pid: {p: 100.0, i: 0.01, d: 10.0}
+  Obrót 4_position_controller:
+    type: effort_controllers/JointPositionController
+    joint: Obrót 4
+    pid: {p: 100.0, i: 0.01, d: 10.0}
